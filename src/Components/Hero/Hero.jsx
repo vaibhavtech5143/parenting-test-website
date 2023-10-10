@@ -7,86 +7,86 @@ const Hero = () => {
   // card data object
   const data = [
     {
-      image: '/src/assets/Images/title02.jpg',
+      image: '/src/assets/Images/test02.png',
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     },
     
     {
-      image: '/src/assets/Images/title02.jpg',
+      image: '/src/assets/Images/test02.png',
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/src/assets/Images/title02.jpg',
+      image: '/src/assets/Images/test02.png',
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/src/assets/Images/title02.jpg',
+      image: '/src/assets/Images/test02.png',
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/src/assets/Images/title02.jpg',
+      image: '/src/assets/Images/test02.png',
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     
     {
-      image: '/src/assets/Images/title02.jpg',
+      image: '/src/assets/Images/test02.png',
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/src/assets/Images/title02.jpg',
+      image: '/src/assets/Images/test02.png',
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/src/assets/Images/title02.jpg',
+      image: '/src/assets/Images/test02.png',
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/src/assets/Images/title02.jpg',
+      image: '/src/assets/Images/test02.png',
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/src/assets/Images/title02.jpg',
+      image: '/src/assets/Images/test02.png',
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/src/assets/Images/title02.jpg',
+      image: '/src/assets/Images/test02.png',
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/src/assets/Images/title02.jpg',
+      image: '/src/assets/Images/test02.png',
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/src/assets/Images/title02.jpg',
+      image: '/src/assets/Images/test02.png',
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, {
-      image: '/src/assets/Images/title02.jpg',
+      image: '/src/assets/Images/test02.png',
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
@@ -127,7 +127,7 @@ const Hero = () => {
           {data.map((item, index) => (
             <div
               key={index}
-              className="bg-white h-[550px]  shadow-xl rounded-[25px] overflow-hidden"
+              className="bg-gray-200 h-[550px]  shadow-xl rounded-[25px] overflow-hidden"
               style={{ marginBottom: '2rem' }}
             >
               <div className="h-[70%]">
