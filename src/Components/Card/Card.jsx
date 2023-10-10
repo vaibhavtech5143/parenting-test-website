@@ -1,22 +1,24 @@
+
+import img from "../../../public/images/test02.png"
 const Card = () => {
     // card data object
     const cardata = [
       {
         id: '1',
         title: 'Card Title',
-        image: '/public/images/test02.png',
+        image: img,
         button: 'Button',
       },
       {
         id: '2',
         title: 'Card Title',
-        image: '/public/images/test02.png',
+        image: img,
         button: 'Button',
       },
       {
         id: '3',
         title: 'Card Title',
-        image: '/public/images/test02.png',
+        image: img,
         button: 'Button',
       },
     ];

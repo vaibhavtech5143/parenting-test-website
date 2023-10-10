@@ -1,5 +1,6 @@
 /* src/App.css */
 import "font-awesome/css/font-awesome.css";
+import img from "../../../public/images/test02.png"
 
 
 const Hero = () => {
@@ -7,86 +8,86 @@ const Hero = () => {
   // card data object
   const data = [
     {
-      image: '/public/images/test02.png',
+      image: img,
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     },
     
     {
-      image: '/public/images/test02.png',
+      image: img,
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/public/images/test02.png',
+      image: img,
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/public/images/test02.png',
+      image: img,
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/public/images/test02.png',
+      image: img,
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     
     {
-      image: '/public/images/test02.png',
+      image: img,
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/public/images/test02.png',
+      image: img,
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/public/images/test02.png',
+      image: img,
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/public/images/test02.png',
+      image: img,
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/public/images/test02.png',
+      image: img,
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/public/images/test02.png',
+      image: img,
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/public/images/test02.png',
+      image: img,
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, 
     {
-      image: '/public/images/test02.png',
+      image: img,
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
     }, {
-      image: '/public/images/test02.png',
+      image: img,
       title: 'lorem ipsum dolor sit amet, consectetur',
       tag:'lorem id',
       date: 'June 12, 2023',
