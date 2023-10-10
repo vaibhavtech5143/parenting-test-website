@@ -4,19 +4,19 @@ const Card = () => {
       {
         id: '1',
         title: 'Card Title',
-        image: 'src/assets/Images/test02.png',
+        image: '/public/images/test02.png',
         button: 'Button',
       },
       {
         id: '2',
         title: 'Card Title',
-        image: 'src/assets/Images/test02.png',
+        image: '/public/images/test02.png',
         button: 'Button',
       },
       {
         id: '3',
         title: 'Card Title',
-        image: 'src/assets/Images/test02.png',
+        image: '/public/images/test02.png',
         button: 'Button',
       },
     ];
